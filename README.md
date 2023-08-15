@@ -1,2 +1,2 @@
 # Coba-gthb
-coba repository github
+coba repository github dan git
